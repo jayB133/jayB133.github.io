@@ -16,10 +16,10 @@ timezone:
 
 title: Jay Smith # the main title
 
-tagline: My Personal Blog # it will display as the subtitle
+tagline: Security enthusiast # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  blog, Jay, github
+  blog, Jay, github, security, cyber
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
