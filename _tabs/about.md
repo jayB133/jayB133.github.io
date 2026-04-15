@@ -5,9 +5,9 @@ order: 4
 ---
 
 
-Hello! I'm Jacrorious, but if you're reading this you can call me Jay! I'm currently working as an IT Security Engineer at [Ada County](https://adacounty.id.gov/).
+Hello! I'm Jacrorious, but if you're reading this you can call me Jay! I'm currently working as an Firewall Security Engineer at [Insulet](https://www.insulet.com/).
 
-My cybersecurity journey began at Boise State University's [Institute of Pervasive Cybersecurity](https://www.boisestate.edu/cybersecurity/), where I served as an analyst. The Institute is at the forefront of cybersecurity research and innovation in Idaho and the region, fostering partnerships between industry, academia, and government to enhance national cybersecurity capabilities. This experience laid the foundation for my career, leading to my role as a Cyber Security Intern at [St. Luke's](https://www.stlukesonline.org/), Idaho's largest health system, before stepping into my current position.
+My cybersecurity journey began at Boise State University's [Institute of Pervasive Cybersecurity](https://www.boisestate.edu/cybersecurity/), where I served as an analyst. The Institute is at the forefront of cybersecurity research and innovation in Idaho and the region. This experience laid the foundation for my career, leading to my role as a Cyber Security Intern at [St. Luke's](https://www.stlukesonline.org/), Idaho's largest health system. I was able to land my first full-time rold at Ada Count as a Security Engineer 1 before stepping into my current position.
 
 
 I hold a Bachelor's degree in Cyber Operations and Resilience from Boise State University. You can read more about my academic journey [here](https://www.boisestate.edu/online/2024/01/14/jacorious-smith-from-air-force-to-cybersecurity-expert/), where I was featured in a student success story.
